@@ -1,0 +1,12 @@
+---
+title: "Project 1 Submission"
+format: html
+---
+
+## Links
+
+- **Link to your GitHub repository:**  
+  https://github.com/douyadou0304-dev/biostat777-intro-Chengxi-Zhou
+
+- **Link to your deployed website:**  
+  https://czhou.quarto.pub/chengxi-zhou---intro-website

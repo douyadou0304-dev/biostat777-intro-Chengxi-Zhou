@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "project1-submit.html",
+    "href": "project1-submit.html",
+    "title": "Project 1 Submission",
+    "section": "",
+    "text": "Link to your GitHub repository:\nhttps://github.com/douyadou0304-dev/biostat777-intro-Chengxi-Zhou\nLink to your deployed website:\nhttps://czhou.quarto.pub/chengxi-zhou—intro-website"
+  },
+  {
+    "objectID": "project1-submit.html#links",
+    "href": "project1-submit.html#links",
+    "title": "Project 1 Submission",
+    "section": "",
+    "text": "Link to your GitHub repository:\nhttps://github.com/douyadou0304-dev/biostat777-intro-Chengxi-Zhou\nLink to your deployed website:\nhttps://czhou.quarto.pub/chengxi-zhou—intro-website"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Chengxi Zhou👋 Welcome to my website!\nI’m a master’s student in Biostatistics at Johns Hopkins Bloomberg School of Public Health (JHSPH) in Baltimore, MD."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am currently pursuing my Master’s degree in Biostatistics at Johns Hopkins University.\nBefore that, I earned my Bachelor’s degree in Biology with a minor in Mathematics at Georgia State University.\nMy undergraduate training provided me with a solid foundation in life sciences and analytical thinking, which later inspired me to bridge biology with quantitative analysis.\n\n\n\nI come from Chengdu, China—a city known for its spicy hotpot, vibrant culture, and relaxed lifestyle.\nGrowing up in such an energetic and flavorful city, I developed a strong appreciation for creativity and open-mindedness.\nI’m a dog person who loves spicy food, watching movies, traveling, and spending time with friends.\nChengdu’s warm and lively spirit continues to influence the way I approach both life and learning.\n\n\n\nDuring my undergraduate studies, I first engaged in biological experiments related to virology, which introduced me to the fascinating world of research.\nAs I became more interested in data interpretation, I realized how statistical methods could help uncover meaningful insights behind biological phenomena.\nThis realization led me to shift my focus toward biostatistics, where I could combine my biological background with quantitative analysis to study complex public health questions.\nMy recent research involves exploring survival analysis and its applications in disease-related studies.\n\n\n\nLooking ahead, I aim to further strengthen my ability to apply advanced statistical techniques to biomedical data and contribute to interdisciplinary research in biostatistics and epidemiology.\nUltimately, I hope to bridge statistical reasoning and real-world health challenges to support data-driven public health decision-making."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "I am currently pursuing my Master’s degree in Biostatistics at Johns Hopkins University.\nBefore that, I earned my Bachelor’s degree in Biology with a minor in Mathematics at Georgia State University.\nMy undergraduate training provided me with a solid foundation in life sciences and analytical thinking, which later inspired me to bridge biology with quantitative analysis."
+  },
+  {
+    "objectID": "about.html#personal-background",
+    "href": "about.html#personal-background",
+    "title": "About",
+    "section": "",
+    "text": "I come from Chengdu, China—a city known for its spicy hotpot, vibrant culture, and relaxed lifestyle.\nGrowing up in such an energetic and flavorful city, I developed a strong appreciation for creativity and open-mindedness.\nI’m a dog person who loves spicy food, watching movies, traveling, and spending time with friends.\nChengdu’s warm and lively spirit continues to influence the way I approach both life and learning."
+  },
+  {
+    "objectID": "about.html#academic-interests",
+    "href": "about.html#academic-interests",
+    "title": "About",
+    "section": "",
+    "text": "During my undergraduate studies, I first engaged in biological experiments related to virology, which introduced me to the fascinating world of research.\nAs I became more interested in data interpretation, I realized how statistical methods could help uncover meaningful insights behind biological phenomena.\nThis realization led me to shift my focus toward biostatistics, where I could combine my biological background with quantitative analysis to study complex public health questions.\nMy recent research involves exploring survival analysis and its applications in disease-related studies."
+  },
+  {
+    "objectID": "about.html#future-goals",
+    "href": "about.html#future-goals",
+    "title": "About",
+    "section": "",
+    "text": "Looking ahead, I aim to further strengthen my ability to apply advanced statistical techniques to biomedical data and contribute to interdisciplinary research in biostatistics and epidemiology.\nUltimately, I hope to bridge statistical reasoning and real-world health challenges to support data-driven public health decision-making."
+  },
+  {
+    "objectID": "example-analysis.html",
+    "href": "example-analysis.html",
+    "title": "Example Analysis: Plastic Waste",
+    "section": "",
+    "text": "How has plastic waste generation varied across different countries and companies over time?\nWhich brands contribute most to global plastic pollution?\n\n\n\nEnvironmental policy makers, NGOs, and sustainability advocates who aim to reduce single-use plastics and promote corporate responsibility."
+  },
+  {
+    "objectID": "example-analysis.html#research-question-and-audience",
+    "href": "example-analysis.html#research-question-and-audience",
+    "title": "Example Analysis: Plastic Waste",
+    "section": "",
+    "text": "How has plastic waste generation varied across different countries and companies over time?\nWhich brands contribute most to global plastic pollution?\n\n\n\nEnvironmental policy makers, NGOs, and sustainability advocates who aim to reduce single-use plastics and promote corporate responsibility."
+  },
+  {
+    "objectID": "example-analysis.html#data-source",
+    "href": "example-analysis.html#data-source",
+    "title": "Example Analysis: Plastic Waste",
+    "section": "Data Source",
+    "text": "Data Source\nData are from TidyTuesday (2021-01-26), based on the Break Free From Plastic global brand audit (R4DS Online Learning Community (2021); Break Free From Plastic (2020)).\nNo API keys are required.\nOriginal data repository: https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-01-26\n\nData dictionary (key columns)\n\n\n\ncolumn\nmeaning\n\n\n\n\ncountry\ncountry name\n\n\nyear\naudit year (2019/2020)\n\n\nparent_company\nbrand owner\n\n\nhdpe,ldpe,pet,pp,ps,pvc\ncounts by material\n\n\ngrand_total\ntotal items collected\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nWhy this dataset?\nBrand-audit data links plastic waste to countries, companies, and material types, enabling policy-relevant analyses (e.g., corporate accountability and material substitution planning)."
+  },
+  {
+    "objectID": "example-analysis.html#data-import-and-preview",
+    "href": "example-analysis.html#data-import-and-preview",
+    "title": "Example Analysis: Plastic Waste",
+    "section": "Data Import and Preview",
+    "text": "Data Import and Preview\n\nlibrary(tidytuesdayR)\nlibrary(tidyverse)\n\nWarning: package 'tidyverse' was built under R version 4.5.2\n\n\nWarning: package 'ggplot2' was built under R version 4.5.2\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.2\n✔ ggplot2   4.0.0     ✔ tibble    3.3.0\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.1.0     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nlibrary(tidyr)\nlibrary(dplyr)\nlibrary(stringr)\nlibrary(ggplot2)\n\nplastics &lt;- readr::read_csv(\n  \"https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-01-26/plastics.csv\"\n)\n\nRows: 13380 Columns: 14\n── Column specification ────────────────────────────────────────────────────────\nDelimiter: \",\"\nchr  (2): country, parent_company\ndbl (12): year, empty, hdpe, ldpe, o, pet, pp, ps, pvc, grand_total, num_eve...\n\nℹ Use `spec()` to retrieve the full column specification for this data.\nℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.\n\ndplyr::glimpse(plastics)\n\nRows: 13,380\nColumns: 14\n$ country        &lt;chr&gt; \"Argentina\", \"Argentina\", \"Argentina\", \"Argentina\", \"Ar…\n$ year           &lt;dbl&gt; 2019, 2019, 2019, 2019, 2019, 2019, 2019, 2019, 2019, 2…\n$ parent_company &lt;chr&gt; \"Grand Total\", \"Unbranded\", \"The Coca-Cola Company\", \"S…\n$ empty          &lt;dbl&gt; 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0…\n$ hdpe           &lt;dbl&gt; 215, 155, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, …\n$ ldpe           &lt;dbl&gt; 55, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,…\n$ o              &lt;dbl&gt; 607, 532, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0, 0,…\n$ pet            &lt;dbl&gt; 1376, 848, 222, 39, 38, 22, 21, 26, 19, 14, 14, 14, 14,…\n$ pp             &lt;dbl&gt; 281, 122, 35, 4, 0, 7, 6, 0, 1, 4, 3, 1, 0, 0, 3, 0, 4,…\n$ ps             &lt;dbl&gt; 116, 114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, …\n$ pvc            &lt;dbl&gt; 18, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,…\n$ grand_total    &lt;dbl&gt; 2668, 1838, 257, 43, 38, 29, 27, 26, 20, 18, 17, 15, 14…\n$ num_events     &lt;dbl&gt; 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4…\n$ volunteers     &lt;dbl&gt; 243, 243, 243, 243, 243, 243, 243, 243, 243, 243, 243, …"
+  },
+  {
+    "objectID": "example-analysis.html#data-wrangling",
+    "href": "example-analysis.html#data-wrangling",
+    "title": "Example Analysis: Plastic Waste",
+    "section": "Data Wrangling",
+    "text": "Data Wrangling\n\n\n\n\n\n\nTip\n\n\n\nWrangling functions used here include: filter(), mutate(), group_by(), summarise(), arrange(), and pivot_longer() — satisfying the assignment requirement for ≥5 functions from dplyr/tidyr.\n\n\n\nplastics_clean &lt;- plastics %&gt;%\n  dplyr::filter(!is.na(country), country != \"Empty\") %&gt;%\n  dplyr::mutate(country = stringr::str_to_title(country)) %&gt;%\n  dplyr::group_by(country, year) %&gt;%\n  dplyr::summarise(total_waste = sum(grand_total, na.rm = TRUE), .groups = \"drop\") %&gt;%\n  dplyr::arrange(dplyr::desc(total_waste))\n\nplastic_types_summary &lt;- plastics %&gt;%\n  dplyr::select(country, year, hdpe, ldpe, pet, pp, ps, pvc, grand_total) %&gt;%\n  tidyr::pivot_longer(cols = c(hdpe, ldpe, pet, pp, ps, pvc),\n                      names_to = \"plastic_type\",\n                      values_to = \"amount\") %&gt;%\n  dplyr::group_by(plastic_type) %&gt;%\n  dplyr::summarise(total_amount = sum(amount, na.rm = TRUE), .groups = \"drop\") %&gt;%\n  dplyr::arrange(dplyr::desc(total_amount))\n\nbad_companies &lt;- c(\"Grand Total\",\"Unbranded\",\"NULL\",\"null\")\ntop_companies &lt;- plastics %&gt;%\n  dplyr::filter(!parent_company %in% bad_companies) %&gt;%\n  dplyr::group_by(parent_company) %&gt;%\n  dplyr::summarise(total_items = sum(grand_total, na.rm = TRUE), .groups = \"drop\") %&gt;%\n  dplyr::arrange(dplyr::desc(total_items)) %&gt;%\n  dplyr::slice_head(n = 10)"
+  },
+  {
+    "objectID": "example-analysis.html#results-and-visualization",
+    "href": "example-analysis.html#results-and-visualization",
+    "title": "Example Analysis: Plastic Waste",
+    "section": "Results and Visualization",
+    "text": "Results and Visualization\n\nFigure 1. Top 10 Plastic Polluting Countries\n\ntop10_countries &lt;- plastics_clean %&gt;%\n  dplyr::group_by(country) %&gt;%\n  dplyr::summarise(total = sum(total_waste), .groups = \"drop\") %&gt;%\n  dplyr::arrange(dplyr::desc(total)) %&gt;%\n  dplyr::slice_head(n = 10)\n\nggplot2::ggplot(top10_countries, ggplot2::aes(x = reorder(country, total), y = total)) +\n  ggplot2::geom_col(fill = \"#3182bd\") +\n  ggplot2::coord_flip() +\n  ggplot2::theme_minimal() +\n  ggplot2::labs(\n    title = \"Top 10 Plastic Waste Producing Countries\",\n    subtitle = \"Based on total plastic waste collected (2019–2020)\",\n    caption = \"Source: TidyTuesday (2021-01-26), Break Free From Plastic\",\n    x = \"Country\",\n    y = \"Total Plastic Waste Collected\"\n  )\n\n\n\n\n\n\n\n\n\n\nFigure 2. Trend of Plastic Waste Over Time\n\nselected_countries &lt;- plastics_clean %&gt;%\n  dplyr::filter(country %in% c(\"United States Of America\", \"India\", \"Philippines\", \"China\", \"Indonesia\"))\n\nggplot2::ggplot(selected_countries, ggplot2::aes(x = year, y = total_waste, color = country)) +\n  ggplot2::geom_line(linewidth = 1.1) +\n  ggplot2::geom_point(size = 2) +\n  ggplot2::theme_minimal() +\n  ggplot2::labs(\n    title = \"Plastic Waste Trends Over Time (2019–2020)\",\n    subtitle = \"Comparing major contributing countries\",\n    caption = \"Source: TidyTuesday (2021-01-26), Break Free From Plastic\",\n    x = \"Year\",\n    y = \"Total Plastic Waste\"\n  )\n\n\n\n\n\n\n\n\n\n\nFigure 3. Faceted Trends\n\nggplot2::ggplot(selected_countries, ggplot2::aes(x = year, y = total_waste)) +\n  ggplot2::geom_line(linewidth = 1.1, color = \"#2c7fb8\") +\n  ggplot2::geom_point(size = 2, color = \"#2c7fb8\") +\n  ggplot2::facet_wrap(~ country, scales = \"free_y\") +\n  ggplot2::theme_minimal() +\n  ggplot2::labs(\n    title = \"Plastic Waste Trends by Country (Faceted)\",\n    subtitle = \"2019–2020; free y-scales by panel\",\n    caption = \"Faceting requirement satisfied (facet_wrap).\",\n    x = \"Year\", y = \"Total Plastic Waste\"\n  )\n\n\n\n\n\n\n\n\n\n\nFigure 4. Top 10 Polluting Companies\n\nggplot2::ggplot(top_companies, ggplot2::aes(x = reorder(parent_company, total_items), y = total_items)) +\n  ggplot2::geom_col(fill = \"#71A682\") +\n  ggplot2::coord_flip() +\n  ggplot2::theme_minimal() +\n  ggplot2::labs(\n    title = \"Top 10 Global Plastic Polluting Companies\",\n    subtitle = \"Based on total plastic items collected\",\n    caption = \"Source: TidyTuesday (2021-01-26), Break Free From Plastic\",\n    x = \"Company\",\n    y = \"Total Plastic Items\"\n  )\n\n\n\n\n\n\n\n\n\n\nFigure 5. Global Plastic Waste Composition\n\nggplot2::ggplot(plastic_types_summary,\n       ggplot2::aes(x = \"\", y = total_amount, fill = plastic_type)) +\n  ggplot2::geom_bar(stat = \"identity\", width = 1, color = \"white\") +\n  ggplot2::coord_polar(theta = \"y\") +\n  ggplot2::theme_void() +\n  ggplot2::scale_fill_brewer(palette = \"Pastel1\") +  # 柔和配色\n  ggplot2::labs(\n    title = \"Global Plastic Waste Composition by Type\",\n    subtitle = \"Proportion of each plastic material in total collected waste\",\n    caption = \"Source: TidyTuesday (2021-01-26), Break Free From Plastic\",\n    fill = \"Plastic Type\"\n  )\n\n\n\n\n\n\n\n\n#| column: margin External image (not created by me):\n Common resin codes for PET/HDPE/LDPE/PP/PS/PVC (Wikimedia Commons)."
+  },
+  {
+    "objectID": "example-analysis.html#conclusion-and-discussion",
+    "href": "example-analysis.html#conclusion-and-discussion",
+    "title": "Example Analysis: Plastic Waste",
+    "section": "Conclusion and Discussion",
+    "text": "Conclusion and Discussion\nThis analysis provides an overview of global plastic waste distribution by country, company, and material type using open-source data from the TidyTuesday dataset. The results highlight that plastic pollution is heavily concentrated in a few countries and dominated by consumer packaging materials such as PET and LDPE. Major global brands continue to contribute significantly to the problem.\nHowever, the analysis is limited by the short time frame (2019–2020) and the lack of granular data on recycling efforts or waste policy changes. Future studies could integrate time-series data over longer periods or explore the relationship between economic development and waste generation to design more effective global plastic reduction strategies.\nFigure 1 shows that Taiwan, Nigeria, and the Philippines are among the highest plastic waste–producing countries between 2019 and 2020. This indicates that developing countries in Asia and Africa contribute significantly to global plastic waste generation, possibly due to limited waste management infrastructure.\nFigure 2 illustrates the temporal trend of plastic waste generation. While the overall waste decreased slightly from 2019 to 2020, India and the Philippines show contrasting patterns, suggesting different national responses to waste management during this period.\nFigure 3 presents the faceted trends of plastic waste generation by country, allowing a clearer comparison between nations and satisfying the faceting requirement through facet_wrap().\nFigure 4 highlights the top plastic-polluting companies, with “Grand Total” and “Unbranded” indicating large proportions of untraceable waste, followed by The Coca-Cola Company. This finding suggests that consumer goods industries remain key contributors to global plastic pollution.\nFigure 5 presents the global composition of plastic waste by material type. PET, LDPE, and PP account for the majority of collected waste, reflecting their widespread use in packaging, bags, and bottles.\nOverall, this analysis demonstrates the importance of transparent brand audits and open-source environmental data in understanding global waste patterns, and how visualization tools in R — such as ggplot2 and the tidyverse ecosystem — can effectively communicate these findings to both policymakers and the public Wickham (2016) Wickham, Averick, et al. (2019)."
+  },
+  {
+    "objectID": "example-analysis.html#external-image",
+    "href": "example-analysis.html#external-image",
+    "title": "Example Analysis: Plastic Waste",
+    "section": "External Image",
+    "text": "External Image\nThis external image, sourced from Encyclopaedia Britannica (by Christine McCabe), illustrates the process of plastic pollution in ocean waters. Sunlight and seawater embrittle plastic, which then breaks down into microplastics that harm marine ecosystems.\n\n\n\nPlastic waste resembling jellyfish under the sea"
+  },
+  {
+    "objectID": "example-analysis.html#functions-used",
+    "href": "example-analysis.html#functions-used",
+    "title": "Example Analysis: Plastic Waste",
+    "section": "Functions Used",
+    "text": "Functions Used\ndplyr: filter(), mutate(), group_by(), summarise(), arrange(), slice_head()\ntidyr: pivot_longer(), select()\nggplot2: geom_col(), geom_line(), geom_point(), geom_bar(), coord_flip(), coord_polar(), facet_wrap(), labs(), theme_minimal()"
+  },
+  {
+    "objectID": "project01-douyadou0304-dev/project1-submit.html",
+    "href": "project01-douyadou0304-dev/project1-submit.html",
+    "title": "Project 1 Submission",
+    "section": "",
+    "text": "Link to your GitHub repository:\nhttps://github.com/douyadou0304-dev/biostat777-intro-Chengxi-Zhou\nLink to your deployed website:\nhttps://czhou.quarto.pub/chengxi-zhou—intro-website"
+  },
+  {
+    "objectID": "project01-douyadou0304-dev/project1-submit.html#links",
+    "href": "project01-douyadou0304-dev/project1-submit.html#links",
+    "title": "Project 1 Submission",
+    "section": "",
+    "text": "Link to your GitHub repository:\nhttps://github.com/douyadou0304-dev/biostat777-intro-Chengxi-Zhou\nLink to your deployed website:\nhttps://czhou.quarto.pub/chengxi-zhou—intro-website"
+  }
+]
