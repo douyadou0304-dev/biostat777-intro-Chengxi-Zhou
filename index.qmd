@@ -1,0 +1,11 @@
+---
+title: "Home"
+---
+
+# Hi, I'm Chengxi Zhou, welcome to my website!
+
+I'm a master student in biostatistics.  
+I enjoy learning statistical methods and applying them to real-world data.  
+
+![](image.jpg){width="280" fig-alt="My photo"}
+
