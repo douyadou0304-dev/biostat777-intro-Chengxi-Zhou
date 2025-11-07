@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Project 1 Submission – Chengxi Zhou - Intro Website</title>
+<title>About – Chengxi Zhou - Intro Website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -97,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -120,7 +120,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#links" id="toc-links" class="nav-link active" data-scroll-target="#links">Links</a></li>
+  <li><a href="#about-me" id="toc-about-me" class="nav-link active" data-scroll-target="#about-me">About Me</a>
+  <ul class="collapse">
+  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education📚</a></li>
+  <li><a href="#personal-background" id="toc-personal-background" class="nav-link" data-scroll-target="#personal-background">Personal Background🎶</a></li>
+  <li><a href="#academic-interests" id="toc-academic-interests" class="nav-link" data-scroll-target="#academic-interests">Academic Interests📊</a></li>
+  <li><a href="#future-goals" id="toc-future-goals" class="nav-link" data-scroll-target="#future-goals">Future Goals🎯</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -129,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Project 1 Submission</h1>
+<h1 class="title">About</h1>
 </div>
 
 
@@ -146,16 +152,35 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<ul>
-<li><p><strong>Link to your GitHub repository:</strong><br>
-https://github.com/douyadou0304-dev/biostat777-intro-Chengxi-Zhou</p></li>
-<li><p><strong>Link to your deployed website:</strong><br>
-https://czhou.quarto.pub/chengxi-zhou—intro-website</p></li>
-</ul>
+<section id="about-me" class="level1">
+<h1>About Me</h1>
+<section id="education" class="level2">
+<h2 class="anchored" data-anchor-id="education">Education📚</h2>
+<p>I am currently pursuing my Master’s degree in Biostatistics at Johns Hopkins University.<br>
+Before that, I earned my Bachelor’s degree in Biology with a minor in Mathematics at Georgia State University.<br>
+My undergraduate training provided me with a solid foundation in life sciences and analytical thinking, which later inspired me to bridge biology with quantitative analysis.</p>
+</section>
+<section id="personal-background" class="level2">
+<h2 class="anchored" data-anchor-id="personal-background">Personal Background🎶</h2>
+<p>I come from Chengdu, China—a city known for its spicy hotpot, vibrant culture, and relaxed lifestyle.<br>
+Growing up in such an energetic and flavorful city, I developed a strong appreciation for creativity and open-mindedness.<br>
+I’m a dog person who loves spicy food, watching movies, traveling, and spending time with friends.<br>
+Chengdu’s warm and lively spirit continues to influence the way I approach both life and learning.</p>
+</section>
+<section id="academic-interests" class="level2">
+<h2 class="anchored" data-anchor-id="academic-interests">Academic Interests📊</h2>
+<p>During my undergraduate studies, I first engaged in biological experiments related to virology, which introduced me to the fascinating world of research.<br>
+As I became more interested in data interpretation, I realized how statistical methods could help uncover meaningful insights behind biological phenomena.<br>
+This realization led me to shift my focus toward biostatistics, where I could combine my biological background with quantitative analysis to study complex public health questions.<br>
+My recent research involves exploring survival analysis and its applications in disease-related studies.</p>
+</section>
+<section id="future-goals" class="level2">
+<h2 class="anchored" data-anchor-id="future-goals">Future Goals🎯</h2>
+<p>Looking ahead, I aim to further strengthen my ability to apply advanced statistical techniques to biomedical data and contribute to interdisciplinary research in biostatistics and epidemiology.<br>
+Ultimately, I hope to bridge statistical reasoning and real-world health challenges to support data-driven public health decision-making.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -232,7 +257,7 @@ https://czhou.quarto.pub/chengxi-zhou—intro-website</p></li>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/douyadou0304-dev\.github\.io\/biostat777-intro-Chengxi-Zhou\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
