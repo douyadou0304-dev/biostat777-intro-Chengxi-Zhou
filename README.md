@@ -3,8 +3,8 @@
 Author: **Chengxi Zhou**
 
 ## About this project
-This website was created as part of Project 1 for Statistical Programming Paradigms and Workflows Course at Johns Hopkins University.  
-It introduces myself and includes a small example data analysis built with Quarto.
+This website was created as part of Project 1 for Statistical Programming Paradigms and Workflows Course at Johns Hopkins University. It includes my personal introduction and project analyses.
+
 
 ## Links
 

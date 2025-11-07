@@ -1,5 +1,61 @@
 [
   {
+    "objectID": "project1-submit.html",
+    "href": "project1-submit.html",
+    "title": "Project 1 Submission",
+    "section": "",
+    "text": "Link to your GitHub repository:\nhttps://github.com/douyadou0304-dev/biostat777-intro-Chengxi-Zhou\nLink to your deployed website:\nhttps://czhou.quarto.pub/chengxi-zhou—intro-website"
+  },
+  {
+    "objectID": "project1-submit.html#links",
+    "href": "project1-submit.html#links",
+    "title": "Project 1 Submission",
+    "section": "",
+    "text": "Link to your GitHub repository:\nhttps://github.com/douyadou0304-dev/biostat777-intro-Chengxi-Zhou\nLink to your deployed website:\nhttps://czhou.quarto.pub/chengxi-zhou—intro-website"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Chengxi Zhou👋 Welcome to my website!\nI’m a master’s student in Biostatistics at Johns Hopkins Bloomberg School of Public Health (JHSPH) in Baltimore, MD."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am currently pursuing my Master’s degree in Biostatistics at Johns Hopkins University.\nBefore that, I earned my Bachelor’s degree in Biology with a minor in Mathematics at Georgia State University.\nMy undergraduate training provided me with a solid foundation in life sciences and analytical thinking, which later inspired me to bridge biology with quantitative analysis.\n\n\n\nI come from Chengdu, China—a city known for its spicy hotpot, vibrant culture, and relaxed lifestyle.\nGrowing up in such an energetic and flavorful city, I developed a strong appreciation for creativity and open-mindedness.\nI’m a dog person who loves spicy food, watching movies, traveling, and spending time with friends.\nChengdu’s warm and lively spirit continues to influence the way I approach both life and learning.\n\n\n\nDuring my undergraduate studies, I first engaged in biological experiments related to virology, which introduced me to the fascinating world of research.\nAs I became more interested in data interpretation, I realized how statistical methods could help uncover meaningful insights behind biological phenomena.\nThis realization led me to shift my focus toward biostatistics, where I could combine my biological background with quantitative analysis to study complex public health questions.\nMy recent research involves exploring survival analysis and its applications in disease-related studies.\n\n\n\nLooking ahead, I aim to further strengthen my ability to apply advanced statistical techniques to biomedical data and contribute to interdisciplinary research in biostatistics and epidemiology.\nUltimately, I hope to bridge statistical reasoning and real-world health challenges to support data-driven public health decision-making."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "I am currently pursuing my Master’s degree in Biostatistics at Johns Hopkins University.\nBefore that, I earned my Bachelor’s degree in Biology with a minor in Mathematics at Georgia State University.\nMy undergraduate training provided me with a solid foundation in life sciences and analytical thinking, which later inspired me to bridge biology with quantitative analysis."
+  },
+  {
+    "objectID": "about.html#personal-background",
+    "href": "about.html#personal-background",
+    "title": "About",
+    "section": "",
+    "text": "I come from Chengdu, China—a city known for its spicy hotpot, vibrant culture, and relaxed lifestyle.\nGrowing up in such an energetic and flavorful city, I developed a strong appreciation for creativity and open-mindedness.\nI’m a dog person who loves spicy food, watching movies, traveling, and spending time with friends.\nChengdu’s warm and lively spirit continues to influence the way I approach both life and learning."
+  },
+  {
+    "objectID": "about.html#academic-interests",
+    "href": "about.html#academic-interests",
+    "title": "About",
+    "section": "",
+    "text": "During my undergraduate studies, I first engaged in biological experiments related to virology, which introduced me to the fascinating world of research.\nAs I became more interested in data interpretation, I realized how statistical methods could help uncover meaningful insights behind biological phenomena.\nThis realization led me to shift my focus toward biostatistics, where I could combine my biological background with quantitative analysis to study complex public health questions.\nMy recent research involves exploring survival analysis and its applications in disease-related studies."
+  },
+  {
+    "objectID": "about.html#future-goals",
+    "href": "about.html#future-goals",
+    "title": "About",
+    "section": "",
+    "text": "Looking ahead, I aim to further strengthen my ability to apply advanced statistical techniques to biomedical data and contribute to interdisciplinary research in biostatistics and epidemiology.\nUltimately, I hope to bridge statistical reasoning and real-world health challenges to support data-driven public health decision-making."
+  },
+  {
     "objectID": "example-analysis.html",
     "href": "example-analysis.html",
     "title": "Example Analysis: Plastic Waste",
@@ -46,7 +102,14 @@
     "href": "example-analysis.html#conclusion-and-discussion",
     "title": "Example Analysis: Plastic Waste",
     "section": "Conclusion and Discussion",
-    "text": "Conclusion and Discussion\nThis analysis provides an overview of global plastic waste distribution by country, company, and material type using open-source data from the TidyTuesday dataset. The results highlight that plastic pollution is heavily concentrated in a few countries and dominated by consumer packaging materials such as PET and LDPE. Major global brands continue to contribute significantly to the problem.\nHowever, the analysis is limited by the short time frame (2019–2020) and the lack of granular data on recycling efforts or waste policy changes. Future studies could integrate time-series data over longer periods or explore the relationship between economic development and waste generation to design more effective global plastic reduction strategies.\nFigure 1 shows that Taiwan, Nigeria, and the Philippines are among the highest plastic waste–producing countries between 2019 and 2020. This indicates that developing countries in Asia and Africa contribute significantly to global plastic waste generation, possibly due to limited waste management infrastructure.\nFigure 2 illustrates the temporal trend of plastic waste generation. While the overall waste decreased slightly from 2019 to 2020, India and the Philippines show contrasting patterns, suggesting different national responses to waste management during this period.\nFigure 3 presents the faceted trends of plastic waste generation by country, allowing a clearer comparison between nations and satisfying the faceting requirement through facet_wrap().\nFigure 4 highlights the top plastic-polluting companies, with “Grand Total” and “Unbranded” indicating large proportions of untraceable waste, followed by The Coca-Cola Company. This finding suggests that consumer goods industries remain key contributors to global plastic pollution.\nFigure 5 presents the global composition of plastic waste by material type. PET, LDPE, and PP account for the majority of collected waste, reflecting their widespread use in packaging, bags, and bottles.\nFigure 6 visualizes the same composition as a pie chart, providing a clear representation of the dominance of PET and LDPE in the overall plastic waste composition.\nOverall, this analysis demonstrates the importance of transparent brand audits and open-source environmental data in understanding global waste patterns, and how visualization tools in R — such as ggplot2 and the tidyverse ecosystem — can effectively communicate these findings to both policymakers and the public Wickham (2016) Wickham, Averick, et al. (2019)."
+    "text": "Conclusion and Discussion\nThis analysis provides an overview of global plastic waste distribution by country, company, and material type using open-source data from the TidyTuesday dataset. The results highlight that plastic pollution is heavily concentrated in a few countries and dominated by consumer packaging materials such as PET and LDPE. Major global brands continue to contribute significantly to the problem.\nHowever, the analysis is limited by the short time frame (2019–2020) and the lack of granular data on recycling efforts or waste policy changes. Future studies could integrate time-series data over longer periods or explore the relationship between economic development and waste generation to design more effective global plastic reduction strategies.\nFigure 1 shows that Taiwan, Nigeria, and the Philippines are among the highest plastic waste–producing countries between 2019 and 2020. This indicates that developing countries in Asia and Africa contribute significantly to global plastic waste generation, possibly due to limited waste management infrastructure.\nFigure 2 illustrates the temporal trend of plastic waste generation. While the overall waste decreased slightly from 2019 to 2020, India and the Philippines show contrasting patterns, suggesting different national responses to waste management during this period.\nFigure 3 presents the faceted trends of plastic waste generation by country, allowing a clearer comparison between nations and satisfying the faceting requirement through facet_wrap().\nFigure 4 highlights the top plastic-polluting companies, with “Grand Total” and “Unbranded” indicating large proportions of untraceable waste, followed by The Coca-Cola Company. This finding suggests that consumer goods industries remain key contributors to global plastic pollution.\nFigure 5 presents the global composition of plastic waste by material type. PET, LDPE, and PP account for the majority of collected waste, reflecting their widespread use in packaging, bags, and bottles.\nOverall, this analysis demonstrates the importance of transparent brand audits and open-source environmental data in understanding global waste patterns, and how visualization tools in R — such as ggplot2 and the tidyverse ecosystem — can effectively communicate these findings to both policymakers and the public Wickham (2016) Wickham, Averick, et al. (2019)."
+  },
+  {
+    "objectID": "example-analysis.html#external-image",
+    "href": "example-analysis.html#external-image",
+    "title": "Example Analysis: Plastic Waste",
+    "section": "External Image",
+    "text": "External Image\nThis external image, sourced from Encyclopaedia Britannica (by Christine McCabe), illustrates the process of plastic pollution in ocean waters. Sunlight and seawater embrittle plastic, which then breaks down into microplastics that harm marine ecosystems.\n\n\n\nPlastic waste resembling jellyfish under the sea"
   },
   {
     "objectID": "example-analysis.html#functions-used",
@@ -56,45 +119,17 @@
     "text": "Functions Used\ndplyr: filter(), mutate(), group_by(), summarise(), arrange(), slice_head()\ntidyr: pivot_longer(), select()\nggplot2: geom_col(), geom_line(), geom_point(), geom_bar(), coord_flip(), coord_polar(), facet_wrap(), labs(), theme_minimal()"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "project01-douyadou0304-dev/project1-submit.html",
+    "href": "project01-douyadou0304-dev/project1-submit.html",
+    "title": "Project 1 Submission",
     "section": "",
-    "text": "I am currently pursuing my Master of Science in Biostatistics at Johns Hopkins University.\nBefore that, I earned my Bachelor’s degree in Biology with a minor in Mathematics at Georgia State University.\nMy undergraduate training provided me with a solid foundation in life sciences and analytical thinking, which later inspired me to bridge biology with quantitative analysis.\n\n\n\nI come from Chengdu, China—a city known for its spicy hotpot, vibrant culture, and relaxed lifestyle.\nGrowing up in such an energetic and flavorful city, I developed a strong appreciation for creativity and open-mindedness.\nI’m a dog person who loves spicy food, watching movies, traveling, and spending time with friends.\nChengdu’s warm and lively spirit continues to influence the way I approach both life and learning.\n\n\n\nDuring my undergraduate studies, I first engaged in biological experiments related to virology, which introduced me to the fascinating world of research.\nAs I became more interested in data interpretation, I realized how statistical methods could help uncover meaningful insights behind biological phenomena.\nThis realization led me to shift my focus toward biostatistics, where I could combine my biological background with quantitative analysis to study complex public health questions.\nMy recent research involves exploring survival analysis and its applications in disease-related studies.\n\n\n\nLooking ahead, I aim to further strengthen my ability to apply advanced statistical techniques to biomedical data and contribute to interdisciplinary research in biostatistics and epidemiology.\nUltimately, I hope to bridge statistical reasoning and real-world health challenges to support data-driven public health decision-making."
+    "text": "Link to your GitHub repository:\nhttps://github.com/douyadou0304-dev/biostat777-intro-Chengxi-Zhou\nLink to your deployed website:\nhttps://czhou.quarto.pub/chengxi-zhou—intro-website"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
+    "objectID": "project01-douyadou0304-dev/project1-submit.html#links",
+    "href": "project01-douyadou0304-dev/project1-submit.html#links",
+    "title": "Project 1 Submission",
     "section": "",
-    "text": "I am currently pursuing my Master of Science in Biostatistics at Johns Hopkins University.\nBefore that, I earned my Bachelor’s degree in Biology with a minor in Mathematics at Georgia State University.\nMy undergraduate training provided me with a solid foundation in life sciences and analytical thinking, which later inspired me to bridge biology with quantitative analysis."
-  },
-  {
-    "objectID": "about.html#personal-background",
-    "href": "about.html#personal-background",
-    "title": "About",
-    "section": "",
-    "text": "I come from Chengdu, China—a city known for its spicy hotpot, vibrant culture, and relaxed lifestyle.\nGrowing up in such an energetic and flavorful city, I developed a strong appreciation for creativity and open-mindedness.\nI’m a dog person who loves spicy food, watching movies, traveling, and spending time with friends.\nChengdu’s warm and lively spirit continues to influence the way I approach both life and learning."
-  },
-  {
-    "objectID": "about.html#academic-interests",
-    "href": "about.html#academic-interests",
-    "title": "About",
-    "section": "",
-    "text": "During my undergraduate studies, I first engaged in biological experiments related to virology, which introduced me to the fascinating world of research.\nAs I became more interested in data interpretation, I realized how statistical methods could help uncover meaningful insights behind biological phenomena.\nThis realization led me to shift my focus toward biostatistics, where I could combine my biological background with quantitative analysis to study complex public health questions.\nMy recent research involves exploring survival analysis and its applications in disease-related studies."
-  },
-  {
-    "objectID": "about.html#future-goals",
-    "href": "about.html#future-goals",
-    "title": "About",
-    "section": "",
-    "text": "Looking ahead, I aim to further strengthen my ability to apply advanced statistical techniques to biomedical data and contribute to interdisciplinary research in biostatistics and epidemiology.\nUltimately, I hope to bridge statistical reasoning and real-world health challenges to support data-driven public health decision-making."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Hi, I’m Chengxi Zhou, welcome to my website!\nI’m a master student in biostatistics.\nI enjoy learning statistical methods and applying them to real-world data."
+    "text": "Link to your GitHub repository:\nhttps://github.com/douyadou0304-dev/biostat777-intro-Chengxi-Zhou\nLink to your deployed website:\nhttps://czhou.quarto.pub/chengxi-zhou—intro-website"
   }
 ]

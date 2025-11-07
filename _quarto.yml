@@ -18,5 +18,9 @@ format:
     toc: true
     css: styles.css
 
+resources:
+  - external-image.png
+  - image.jpg
+
 bibliography: reference.bib
 

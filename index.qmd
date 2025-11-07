@@ -2,10 +2,12 @@
 title: "Home"
 ---
 
-# Hi, I'm Chengxi Zhou, welcome to my website!
+# Hi, I’m Chengxi Zhou👋 Welcome to my website!
 
-I'm a master student in biostatistics.  
-I enjoy learning statistical methods and applying them to real-world data.  
+I’m a master’s student in Biostatistics at Johns Hopkins Bloomberg School of Public Health (JHSPH) in Baltimore, MD.  
+
+
+  
 
 ![](image.jpg){width="280" fig-alt="My photo"}
 

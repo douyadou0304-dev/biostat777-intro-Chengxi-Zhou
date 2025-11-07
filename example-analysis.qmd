@@ -190,9 +190,14 @@ However, the analysis is limited by the short time frame (2019–2020) and the l
 
 **Figure 5** presents the global composition of plastic waste by material type. PET, LDPE, and PP account for the majority of collected waste, reflecting their widespread use in packaging, bags, and bottles.
 
-**Figure 6** visualizes the same composition as a pie chart, providing a clear representation of the dominance of PET and LDPE in the overall plastic waste composition.
 
 Overall, this analysis demonstrates the importance of transparent brand audits and open-source environmental data in understanding global waste patterns, and how visualization tools in R — such as **ggplot2** and the **tidyverse** ecosystem — can effectively communicate these findings to both policymakers and the public @ggplot2 @tidyverse.
+
+## External Image
+This external image, sourced from *Encyclopaedia Britannica* (by Christine McCabe), illustrates the process of plastic pollution in ocean waters. Sunlight and seawater embrittle plastic, which then breaks down into microplastics that harm marine ecosystems.
+
+![Plastic waste resembling jellyfish under the sea](external-image.jpg){fig-cap="An artistic depiction showing plastic waste drifting underwater like jellyfish, symbolizing the impact of pollution on marine ecosystems." width=70%}
+
 
 ## Functions Used
 
