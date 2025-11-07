@@ -12,4 +12,4 @@ This website was created as part of Project 1 for Statistical Programming Paradi
   [https://github.com/douyadou0304-dev/biostat777-intro-Chengxi-Zhou](https://github.com/douyadou0304-dev/biostat777-intro-Chengxi-Zhou)
 
 - **Deployed website:**  
-  [https://czhou.quarto.pub/chengxi-zhou---intro-website](https://czhou.quarto.pub/chengxi-zhou---intro-website)
+  [https://douyadou0304-dev.github.io/biostat777-intro-Chengxi-Zhou/](https://douyadou0304-dev.github.io/biostat777-intro-Chengxi-Zhou/)
